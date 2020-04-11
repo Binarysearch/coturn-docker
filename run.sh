@@ -1,0 +1,1 @@
+docker run --net=host --name my-coturn -t coturn:latest
